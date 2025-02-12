@@ -1,9 +1,9 @@
 BOOKDOM.NP
 
-<img width="1452" alt="image" src="https://github.com/user-attachments/assets/326f0eb7-d6f3-49c2-a5d6-eb410817b939" />
+![image](https://github.com/user-attachments/assets/b4ffdec6-cf4f-4a8d-b82c-c735cb6c778f)
+![image](https://github.com/user-attachments/assets/79fb75e7-ad6c-4870-b0ec-5c7868029f55)
+![image](https://github.com/user-attachments/assets/76b40666-51ce-4f81-97b6-16264ca144ca)
+![image](https://github.com/user-attachments/assets/ce7af129-9f13-47a6-b07c-b4c81944e7fc)
 
-![image](https://github.com/user-attachments/assets/2b36ac72-b541-41ab-962b-12c2168b99e0)
-
-![image](https://github.com/user-attachments/assets/aaa4af46-f9b7-41af-a94e-023c4e690b32)
 
 An Ecommerce Bookstore platform for bookdom.np
