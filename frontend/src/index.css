@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@plugin "daisyui"{
+    themes: light --default
+
+}
+@layer components{
+    .font-quicksand{
+        font-family: Quicksand, system-ui, sans-serif ;
+    }
+}
+
+.track{
+    position: absolute;
+    white-space: nowrap;
+    will-change: transform;
+    animation: marquee 10s linear infinite;
+    width: 100%;
+}
+
+.track:hover{
+    animation-play-state:paused ;
+}
+@keyframes marquee {
+    from{
+        transform: translateX(0);
+    }to{
+        transform: translateX(-50%);
+    }
+}
